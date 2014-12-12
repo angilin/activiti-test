@@ -1,0 +1,5 @@
+/target/
+/WebContent/WEB-INF/classes/
+/.settings
+/.classpath
+/.project
